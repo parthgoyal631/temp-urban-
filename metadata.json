@@ -1,0 +1,6 @@
+{
+  "name": "Urban Intelligence Platform",
+  "description": "Public transport & municipal urban intelligence platform integrated with Google Flow visual detection prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
